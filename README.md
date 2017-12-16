@@ -3,10 +3,8 @@
 
 
 项目中如有疑问，请联系 xuancaocom@sina.cn  如果对您有帮助，给个star吧！
-![image](https://github.com/xuancao/DynamicSkin/blob/master/screenshot/skinchange1.png)
-![image](https://github.com/xuancao/DynamicSkin/blob/master/screenshot/skinchange2.png)
-![image](https://github.com/xuancao/DynamicSkin/blob/master/screenshot/skinchange3.png)
-![video](https://github.com/xuancao/DynamicSkin/blob/master/screenshot/skinchange3.png)
+
+![video](https://github.com/xuancao/CoolLoginBox/blob/master/gif/device-2017-12-16-200719.mp4)
 
 博客地址 http://www.jianshu.com/p/dcc076de9192
 
