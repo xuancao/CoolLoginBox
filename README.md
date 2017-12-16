@@ -30,7 +30,7 @@
                     android:paddingBottom="2dp"/>
             </android.support.design.widget.TextInputLayout>
 
-博客地址 http://www.jianshu.com/p/dcc076de9192
+博客地址 http://www.jianshu.com/p/edefa6f1b1cd
 
 项目中自定义控件源自：https://github.com/julianraj/ValidatedTextInputLayout
 
