@@ -3,9 +3,11 @@
 
 
 项目中如有疑问，请联系 xuancaocom@sina.cn  如果对您有帮助，给个star吧！
+
 ![image](https://github.com/xuancao/CoolLoginBox/blob/master/gif/GIF.gif)
 
 主要代码：
+
             <android.support.design.widget.TextInputLayout
                 android:id="@+id/tv_input_layout"
                 android:textColorHint="#ffffff"
