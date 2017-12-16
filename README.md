@@ -8,31 +8,26 @@
 
 主要代码：
 
-            <android.support.design.widget.TextInputLayout
-                android:id="@+id/tv_input_layout"
+             <android.support.design.widget.TextInputLayout
                 android:textColorHint="#ffffff"
+                android:theme="@style/TextLabel"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                app:hintTextAppearance="@style/MyHintText"
-                app:passwordToggleEnabled="true"
-                app:passwordToggleDrawable="@drawable/password_selector"
-                app:passwordToggleTint="@color/green"
-                app:passwordToggleTintMode="multiply">
-
-                <android.support.design.widget.TextInputEditText
-                    android:id="@+id/et_retrePassword"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                app:counterEnabled="true"
+                app:counterMaxLength="10"
+                app:counterTextAppearance="@style/CountTextAppearance">
+                <EditText
+                    android:id="@+id/et_password"
                     android:textSize="13sp"
                     android:textColor="#ffffff"
-                    android:hint="@string/retrePassword"
-                    android:inputType="textPassword"
+                    android:hint="@string/password"
                     android:maxLength="10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword"
                     android:background="@drawable/selector_bg_edit_2"
                     android:textCursorDrawable="@drawable/bg_input_cursor_2"
-                    android:singleLine="true"
-                    android:paddingBottom="2dp" />
-
+                    android:paddingBottom="2dp"/>
             </android.support.design.widget.TextInputLayout>
 
 博客地址 http://www.jianshu.com/p/dcc076de9192
